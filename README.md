@@ -5,4 +5,4 @@ termina: kitty
 font: varela
 notifications: dunst
 
-https://imgur.com/i8FRJAE
+![rice](https://imgur.com/i8FRJAE)
