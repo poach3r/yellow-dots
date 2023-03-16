@@ -10,4 +10,4 @@ font: varela
 
 notifications: dunst
 
-![rice](https://imgur.com/i8FRJAE)
+![rice](/berryrice.png)
